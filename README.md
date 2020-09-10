@@ -8,6 +8,12 @@ This course focuses on advanced topics in testing and code craftsmanship. Studen
 
 - [SPD 1.3](https://github.com/Make-School-Courses/SPD-1.3-Team-Software-Project)
 
+## Course Specifics
+
+**Course Delivery**: hybrid | 7 weeks | 14 sessions
+
+**Course Credits**: 3 units | 37.5 Seat Hours | 75 Total Hours
+
 ## Learning Outcomes
 
 Students by the end of the course will be able to ...
@@ -80,6 +86,12 @@ To pass this course you must meet the following requirements:
 - Pass the final summative assessment >=75%
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
+
+## Information Resources
+
+Any additional resources you may need (online books, etc.) can be found here. You can also find additional resources through the library linked below:
+
+- [make.sc/library](http://make.sc/library)
 
 ## Make School Course Policies
 
