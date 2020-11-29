@@ -6,7 +6,7 @@ This course focuses on advanced topics in testing and code craftsmanship. Studen
 
 ## Prerequisites
 
-- [SPD 1.3](https://github.com/Make-School-Courses/SPD-1.3-Team-Software-Project)
+- None
 
 ## Course Specifics
 
