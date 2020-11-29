@@ -1,4 +1,4 @@
-# [FUTURE] SPD-2.3 Testing and Architecture
+SPD-2.31 Testing and Architecture
 
 ## Course Description
 
