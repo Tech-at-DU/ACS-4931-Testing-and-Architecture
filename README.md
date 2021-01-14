@@ -2,7 +2,7 @@
 
 ## Course Description
 
-This course focuses on advanced topics in testing and code craftsmanship. Students apply these concepts to existing portfolio projects, adding a further layer of sophistication. Topics covered include: types of testing, automated testing, design patterns, open source coding, and navigating massive codebases. The course also covers guiding principles in software development that help professional developers make decisions on what language, frameworks, and construction practices to use while building projects. By the end of the course, students will have refactored projects to have better testing and architecture, and built an additional solo project incorporating course principles.
+This course focuses on advanced topics such as unit-testing, refactoring and design pattern. Students apply these concepts to existing portfolio projects to improve code qualities such as readibility, modularity and extensibility. Topics covered include: debugging techniques, unit-testing, refactoring techniques, design patterns and navigating massive codebases. By the end of the course, students have practical knowledge of writing python unit tests, refactoring legacy code and implementing some desing patterns. 
 
 ## Prerequisites
 
@@ -18,11 +18,11 @@ This course focuses on advanced topics in testing and code craftsmanship. Studen
 
 Students by the end of the course will be able to ...
 
-1. Compare and contrast software construction options and make informed decisions around which to pick.
+1. Compare and contrast software architecture options and design patterns to make informed decisions around which to pick.
 1. Produce elegant pseudocode to quickly describe how to solve a problem.
 1. Practice techniques to improve the quality and craftsmanship of their software.
-1. Design and implement code refactors.
-1. Apply debugging and testing best practices to more easily resolve bugs.
+1. Design and implement code refactoring techniques to improve readability.
+1. Apply debugging and unit-testing best practices to improve quality assurance.
 
 ## Schedule
 
