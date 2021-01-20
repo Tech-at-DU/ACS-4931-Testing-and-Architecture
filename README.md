@@ -79,11 +79,10 @@ These are to be finished by the **end of the course**
 
 To pass this course you must meet the following requirements:
 
-- Complete all required tutorials
-- Pass all projects according to the associated project rubric
-- Pass the final summative assessment >=75%
-- Actively participate in class and abide by the attendance policy
-- Make up all classwork from all absences
+- Obtain at least 70% cumulative score on the assignments.
+- Pass the final summative assessment (minimum grade 70%).
+- Actively participate in class and abide by the attendance policy.
+- If an assignment is not passing, you have 1 week to make any necessary fixes and resubmit for full points.
 
 ## Information Resources
 
