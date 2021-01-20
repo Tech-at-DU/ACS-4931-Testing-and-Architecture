@@ -45,35 +45,15 @@ Students by the end of the course will be able to ...
 | 12 |  Tue, March 2                        | Architecture |
 | 13 |  Thu, March 4                           | Architecture |
 
-## Class Assignments
+## Assignment Schedule
 
-There will be **three** primary assignments for this course in addition to the lab assignments. These primary assignments are:
+We will be using Gradescope, which allows us to provide fast and accurate feedback on your work. All assigned work will be submitted through Gradescope, and assignment and exam grades will be returned through Gradescope.
 
-- Refactor an old project
-- [Reflected Best Self write up](https://github.com/Make-School-Courses/SPD-1.4-Testing-And-Architecture/blob/master/Assignments/Reflective-Best-Self.md)
+As soon as grades are posted, you will be notified immediately so that you can log in and see your feedback. You may also submit regrade requests if you feel we have made a mistake.
 
-Please view **descriptions and due dates** on the assignments [here](https://docs.google.com/document/d/17UXI7OUNNSqgSjRmWpEBMTybAmEjcqwW1KI-yP_-wCU/edit?usp=sharing)
+Your Gradescope login is your Make School email, and your password can be changed at https://gradescope.com/reset_password. The same link can be used if you need to set your password for the first time.
 
-### Lab Assignments
-
-These are to be finished by the **end of the course**
-
-**Pseudocode** ([Tracker columns](https://docs.google.com/spreadsheets/d/12DDJDz73An4knCUSQMOLK0EBQD-jzM90Z1PauibzADY/edit#gid=136456159) F, G)
-
-- Pick a function to write psuedocode for
-- Psuedocode for that chosen function
-
-**Refactoring** ([Tracker columns](https://docs.google.com/spreadsheets/d/12DDJDz73An4knCUSQMOLK0EBQD-jzM90Z1PauibzADY/edit#gid=136456159) H, I, J)
-
-- Written plan for how you're going to implement your refactor
-- Link to the commit containing your Refactored code
-- Score on the refactor based on the refactor rubric
-- Name of the person(s) who graded your refactor
-- Link to the commit containing the updates you made to your refactor based on feedback from the rubric
-
-**Testing** ([Tracker column](https://docs.google.com/spreadsheets/d/12DDJDz73An4knCUSQMOLK0EBQD-jzM90Z1PauibzADY/edit#gid=136456159) M)
-
-- link to tests written for your chosen project
+The assingments cover debugging, refactoring, unit testing and architecture topics.
 
 ## Evaluation
 
