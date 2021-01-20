@@ -87,6 +87,11 @@ To pass this course you must meet the following requirements:
 
 ## Information Resources
 
+1. "Refactoring: Improving the Design of Existing Code" (1st edition) by Martin Fowler.
+1. "Effective Python: 90 Specific Ways to Write Better Python" (2nd edition) by Brett Slatkin.
+1. [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
+1. "Debugging: The 9 Indispensable Rules for Finding Even the Most Elusive Software and Hardware Problems" by  David J Agans
+
 Any additional resources you may need (online books, etc.) can be found here. You can also find additional resources through the library linked below:
 
 - [make.sc/library](http://make.sc/library)
