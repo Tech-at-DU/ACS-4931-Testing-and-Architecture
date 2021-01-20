@@ -31,19 +31,19 @@ Students by the end of the course will be able to ...
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Thu, Jan 21                         | [Construction/Key Decisions](Lessons/Lesson1.md) |
-|  2 |  Tue, Jan 26                      | [Pseudocode/Collaborative Construction](Lessons/Lesson2.md) |
-|  3 |  Thu, Jan 28                         | [Lab: Pseudocode](Lessons/Lesson3.md) |
-|  4 |  Tue, Feb 2                     | [Software Quality Landscape](Lessons/Lesson4.md) |
-|  5 |  Thu, Feb 4                        | [Themes in Software Craftsmanship](Lessons/Lesson5.md) |
-|  6 |  Tue, Feb 9                     |                |
-|  7 |  Tue, Feb 11                     |                |
-|  8 |  Tue, Feb 16                     | [Lab: Refactoring](Lessons/Lesson6.md) |
-|  9 |  Thu, Feb 18                      | [Developer Testing](Lessons/Lesson7.md) |
-| 10 |  Tue, Feb 23                     | [Lab: Testing](Lessons/Lesson8.md) |
-| 11 |  Thu, Feb 25                        | [Lab: Blog Post](Lessons/Lesson9.md) |
-| 12 |  Tue, March 2                        | [Debugging/Refactoring](Lessons/Lesson10.md) |
-| 13 |  Thu, March 4                           | [Ticketing](Lessons/Lesson11.md) |
+|  1 |  Thu, Jan 21                         | [Debugging 1](https://docs.google.com/presentation/d/1gHNAh4z_IFsW9lQbBWDtULEDxX7YCjgh9U4NJAivt00/edit?usp=sharing) |
+|  2 |  Tue, Jan 26                      | [Debugging 2](https://docs.google.com/presentation/d/1JFOS4z4hhejgyR7_jBDGOFBywJrqik1Bb18c_sugsDc/edit?usp=sharing) |
+|  3 |  Thu, Jan 28                         | [Debugging 3](https://docs.google.com/presentation/d/1Lf1UfOtA02nUmL53Gf8CJwqEpaVXicpvSOa-mTuh8rg/edit?usp=sharing) |
+|  4 |  Tue, Feb 2                     | Refactoring |
+|  5 |  Thu, Feb 4                        | Refactoring |
+|  6 |  Tue, Feb 9                     |  Refactoring   |
+|  7 |  Tue, Feb 11                     |  Refactoring |              |
+|  8 |  Tue, Feb 16                     | Refactoring |
+|  9 |  Thu, Feb 18                      | Refactoring |
+| 10 |  Tue, Feb 23                     | Unit Testing |
+| 11 |  Thu, Feb 25                        | Unit Testing |
+| 12 |  Tue, March 2                        | Architecture |
+| 13 |  Thu, March 4                           | Architecture |
 
 ## Class Assignments
 
