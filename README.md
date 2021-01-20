@@ -27,31 +27,29 @@ Students by the end of the course will be able to ...
 ## Schedule
 
 **Course Dates:** Monday, April 1 – Wednesday, May 15, 2019 (7 weeks)<br>
-**Class Times:** Monday and Wednesday at 3:30–5:20pm (14 class sessions)
+**Class Times:** Tue and Thu at 9:30am –12:15pm (13 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Monday, April 1                         | [Construction/Key Decisions](Lessons/Lesson1.md) |
-|  2 |  Wednesday, April 3                      | [Pseudocode/Collaborative Construction](Lessons/Lesson2.md) |
-|  3 |  Monday, April 8                         | [Lab: Pseudocode](Lessons/Lesson3.md) |
-|  4 |  Wednesday, April 10                     | [Software Quality Landscape](Lessons/Lesson4.md) |
-|  5 |  Monday, April 15                        | [Themes in Software Craftsmanship](Lessons/Lesson5.md) |
-|  6 |  Wednesday, April 17                     | [Lab: Refactoring](Lessons/Lesson6.md) |
-|  7 |  Monday, April 22                        | [Developer Testing](Lessons/Lesson7.md) |
-|  8 |  Wednesday, April 24                     | [Lab: Testing](Lessons/Lesson8.md) |
-|  9 |  Monday, April 29                        | [Lab: Blog Post](Lessons/Lesson9.md) |
-| 10 |  Wednesday, May 1                        | [Debugging/Refactoring](Lessons/Lesson10.md) |
-| 11 |  Monday, May 6                           | [Ticketing](Lessons/Lesson11.md) |
-| 12 |  Wednesday, May 8                        | [Code-Tuning Strategies](Lessons/Lesson12.md) |
-| 13 |  Monday, May 13                          | [Final Class: Review Session](Lessons/Review.md) |
-| 14 |  Wednesday, May 15                       | Final Exam |
+|  1 |  Thu, Jan 21                         | [Construction/Key Decisions](Lessons/Lesson1.md) |
+|  2 |  Tue, Jan 26                      | [Pseudocode/Collaborative Construction](Lessons/Lesson2.md) |
+|  3 |  Thu, Jan 28                         | [Lab: Pseudocode](Lessons/Lesson3.md) |
+|  4 |  Tue, Feb 2                     | [Software Quality Landscape](Lessons/Lesson4.md) |
+|  5 |  Thu, Feb 4                        | [Themes in Software Craftsmanship](Lessons/Lesson5.md) |
+|  6 |  Tue, Feb 9                     |                |
+|  7 |  Tue, Feb 11                     |                |
+|  8 |  Tue, Feb 16                     | [Lab: Refactoring](Lessons/Lesson6.md) |
+|  9 |  Thu, Feb 18                      | [Developer Testing](Lessons/Lesson7.md) |
+| 10 |  Tue, Feb 23                     | [Lab: Testing](Lessons/Lesson8.md) |
+| 11 |  Thu, Feb 25                        | [Lab: Blog Post](Lessons/Lesson9.md) |
+| 12 |  Tue, March 2                        | [Debugging/Refactoring](Lessons/Lesson10.md) |
+| 13 |  Thu, March 4                           | [Ticketing](Lessons/Lesson11.md) |
 
 ## Class Assignments
 
 There will be **three** primary assignments for this course in addition to the lab assignments. These primary assignments are:
 
 - Refactor an old project
-- Blog post on the refactor
 - [Reflected Best Self write up](https://github.com/Make-School-Courses/SPD-1.4-Testing-And-Architecture/blob/master/Assignments/Reflective-Best-Self.md)
 
 Please view **descriptions and due dates** on the assignments [here](https://docs.google.com/document/d/17UXI7OUNNSqgSjRmWpEBMTybAmEjcqwW1KI-yP_-wCU/edit?usp=sharing)
