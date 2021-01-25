@@ -61,6 +61,8 @@ The assingments cover debugging, refactoring, unit testing and architecture topi
 1. Refactoring - Moving Features and Organizing Data. The assingments include techniques such as extract class, Replace Magic numbers with constants.
 1. Refactoring - Simplifying Conditional Expressions. The assingments include techniques such as decompose conditional, consolidate conditionals, consolidate duplicates, remove control flags and Replace Nested Conditional with Guard Clauses.
 1. Refactoring - Other techniques. The assignment includes extract superclass technique.
+1. Unit Test 1 and Unit Test 2. The assingments include writing unit tests for a tic-toc-toe program.
+1. Architecture 1 and 2. The assingments include refactoring a program to use the observer pattern and finite state machine pattern. 
 
 Please refer to [sample-exercises.md](sample-exercises.md) for details.
 For assingments due dates please refer to Gradescope. As a rule of thumb, the due date of an assignment is one to two weeks after its corresponding lesson is taught.
