@@ -54,7 +54,7 @@ As soon as grades are posted, you will be notified immediately so that you can l
 
 Your Gradescope login is your Make School email, and your password can be changed at https://gradescope.com/reset_password. The same link can be used if you need to set your password for the first time.
 
-The assingments cover debugging, refactoring, unit testing and architecture topics.
+The assingments cover debugging, refactoring, unit testing and architecture topics. Please refer to [sample-exercises.md](sample-exercises.md) for details.
 
 ## Evaluation
 
