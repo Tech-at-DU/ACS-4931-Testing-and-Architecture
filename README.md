@@ -32,9 +32,9 @@ Students by the end of the course will be able to ...
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Thu, Jan 21                         | [Debugging 1](https://docs.google.com/presentation/d/1gHNAh4z_IFsW9lQbBWDtULEDxX7YCjgh9U4NJAivt00/edit?usp=sharing) |
-|  2 |  Tue, Jan 26                      | [Debugging 2](https://docs.google.com/presentation/d/1JFOS4z4hhejgyR7_jBDGOFBywJrqik1Bb18c_sugsDc/edit?usp=sharing) |
-|  3 |  Thu, Jan 28                         | [Debugging 3](https://docs.google.com/presentation/d/1Lf1UfOtA02nUmL53Gf8CJwqEpaVXicpvSOa-mTuh8rg/edit?usp=sharing) |
+|  1 |  Thu, Jan 21                         | [Debugging Steps](https://docs.google.com/presentation/d/1gHNAh4z_IFsW9lQbBWDtULEDxX7YCjgh9U4NJAivt00/edit?usp=sharing) |
+|  2 |  Tue, Jan 26                      | [Debugging Techniques](https://docs.google.com/presentation/d/1JFOS4z4hhejgyR7_jBDGOFBywJrqik1Bb18c_sugsDc/edit?usp=sharing) |
+|  3 |  Thu, Jan 28                         | [Using a Debugger](https://docs.google.com/presentation/d/1Lf1UfOtA02nUmL53Gf8CJwqEpaVXicpvSOa-mTuh8rg/edit?usp=sharing) |
 |  4 |  Tue, Feb 2                     | [Refactoring - PEP 8](https://docs.google.com/presentation/d/1d-uhUf_7v4PfbMFO_1sFcaRC5koy-hpoPCtq3Oku4ns/edit?usp=sharing) |
 |  5 |  Thu, Feb 4                        | Refactoring - Composing Methods |
 |  6 |  Tue, Feb 9                     |  Refactoring -  Organizing Data  |
