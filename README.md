@@ -2,11 +2,12 @@
 
 ## Course Description
 
-This course focuses on advanced topics such as unit-testing, refactoring and design pattern. Students apply these concepts to existing portfolio projects to improve code qualities such as readibility, modularity and extensibility. Topics covered include: debugging techniques, unit-testing, refactoring techniques, design patterns and navigating massive codebases. By the end of the course, students have practical knowledge of writing python unit tests, refactoring legacy code and implementing some desing patterns. 
+This course focuses on advanced topics such as debugging, unit testing, refactoring and design patterns. Students apply these concepts to existing portfolio projects to improve code qualities such as readibility, modularity and extensibility. Topics covered include: debugging techniques, unit-testing, refactoring techniques, design patterns and navigating massive codebases. By the end of the course, students have practical knowledge of writing python unit tests, refactoring legacy code and implementing some desing patterns. 
 
 ## Prerequisites
 
-- None
+- CS 1.0 - INTRODUCTION TO PROGRAMMING
+- CS 1.1 - OBJECT ORIENTED PROGRAMMING
 
 ## Course Specifics
 
@@ -26,7 +27,7 @@ Students by the end of the course will be able to ...
 
 ## Schedule
 
-**Course Dates:** Monday, April 1 – Wednesday, May 15, 2019 (7 weeks)<br>
+**Course Dates:** Thu, Jan 21 – Thu, March 4, 2021 (7 weeks)<br>
 **Class Times:** Tue and Thu at 9:30am –12:15pm (13 class sessions)
 
 | Class |          Date          |                 Topics                  |
