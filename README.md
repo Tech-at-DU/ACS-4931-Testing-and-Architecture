@@ -1,4 +1,4 @@
-# SPD-2.3 Testing and Architecture
+# SPD 2.3 Testing and Architecture
 
 ## Course Description
 
@@ -32,9 +32,9 @@ Students by the end of the course will be able to ...
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Thu, Jan 21                         | [Debugging 1](https://docs.google.com/presentation/d/1gHNAh4z_IFsW9lQbBWDtULEDxX7YCjgh9U4NJAivt00/edit?usp=sharing) |
-|  2 |  Tue, Jan 26                      | [Debugging 2](https://docs.google.com/presentation/d/1JFOS4z4hhejgyR7_jBDGOFBywJrqik1Bb18c_sugsDc/edit?usp=sharing) |
-|  3 |  Thu, Jan 28                         | [Debugging 3](https://docs.google.com/presentation/d/1Lf1UfOtA02nUmL53Gf8CJwqEpaVXicpvSOa-mTuh8rg/edit?usp=sharing) |
+|  1 |  Thu, Jan 21                         | [Debugging Steps](https://docs.google.com/presentation/d/1gHNAh4z_IFsW9lQbBWDtULEDxX7YCjgh9U4NJAivt00/edit?usp=sharing) |
+|  2 |  Tue, Jan 26                      | [Debugging Techniques](https://docs.google.com/presentation/d/1JFOS4z4hhejgyR7_jBDGOFBywJrqik1Bb18c_sugsDc/edit?usp=sharing) |
+|  3 |  Thu, Jan 28                         | [Using a Debugger](https://docs.google.com/presentation/d/1Lf1UfOtA02nUmL53Gf8CJwqEpaVXicpvSOa-mTuh8rg/edit?usp=sharing) |
 |  4 |  Tue, Feb 2                     | [Refactoring - PEP 8](https://docs.google.com/presentation/d/1d-uhUf_7v4PfbMFO_1sFcaRC5koy-hpoPCtq3Oku4ns/edit?usp=sharing) |
 |  5 |  Thu, Feb 4                        | Refactoring - Composing Methods |
 |  6 |  Tue, Feb 9                     |  Refactoring -  Organizing Data  |
@@ -54,7 +54,18 @@ As soon as grades are posted, you will be notified immediately so that you can l
 
 Your Gradescope login is your Make School email, and your password can be changed at https://gradescope.com/reset_password. The same link can be used if you need to set your password for the first time.
 
-The assingments cover debugging, refactoring, unit testing and architecture topics.
+The assingments cover debugging, refactoring, unit testing and architecture topics. The following is the list of assignment titles:
+1. Debugging: Gathering info and writing assumptions
+1. Refactoring - PEP 8: Improving Code Readibility Using PEP 8. The assingments cover indentation, whitespaces, naming convention and docstrings.
+1. Refactoring - Composing Methods. The assignments cover various techniques including extract method, replace temp with query, introducing explaining variable, split temp variable and 'remove assingment to method parameters'.
+1. Refactoring - Moving Features and Organizing Data. The assingments include techniques such as extract class, Replace Magic numbers with constants.
+1. Refactoring - Simplifying Conditional Expressions. The assingments include techniques such as decompose conditional, consolidate conditionals, consolidate duplicates, remove control flags and Replace Nested Conditional with Guard Clauses.
+1. Refactoring - Other techniques. The assignment includes extract superclass technique.
+1. Unit Test 1 and Unit Test 2. The assingments include writing unit tests for a tic-toc-toe program.
+1. Architecture 1 and 2. The assingments include refactoring a program to use the observer pattern and finite state machine pattern. 
+
+Please refer to [sample-exercises.md](sample-exercises.md) for details.
+For assingments due dates please refer to Gradescope. As a rule of thumb, the due date of an assignment is one to two weeks after its corresponding lesson is taught.
 
 ## Evaluation
 
