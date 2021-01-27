@@ -10,17 +10,12 @@ Consider the following guidelines:
 - Maximum line length is 79 characters.
 - Continuation lines should align wrapped elements either vertically using Python's implicit line joining inside parentheses, brackets and braces, or using a hanging indent. Refer to class slides for visual explanation.
 
-Now,
-
-1. Study the file 'indentation2.py' and fix all indentation issues.
-2. Compare your modified file with "indentation2_refactored.py"
+Now, Study the file 'indentation2.py' and fix all indentation issues.
 
 ## Activity 2: Whitespaces and Naming Convention
 
-1. Fix all whitespace and naming convention issues of the file "whitespace_naming_convention2.py". 
-1. Compare your modified file with "whitespace_naming_convention2_refactored.py".
+Fix all whitespace and naming convention issues of the file "whitespace_naming_convention2.py".
 
 ## Activity 3: Docstrings
 
-1. Add necessary docstrings to the file "".
-1. Compare your modified file with "".
+Add necessary docstrings to the file "docstrings_whitespace". Fix any other issues discussed in this document (if you find any).
