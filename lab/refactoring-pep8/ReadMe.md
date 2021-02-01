@@ -18,4 +18,4 @@ Fix all whitespace and naming convention issues of the file "whitespace_naming_c
 
 ## Activity 3: Docstrings
 
-Add necessary docstrings to the file "docstrings_whitespace". Fix any other issues discussed in this document (if you find any).
+Add necessary docstrings to the file "docstrings_blank_lines.py". Fix any other issues discussed in this document (if you find any).
