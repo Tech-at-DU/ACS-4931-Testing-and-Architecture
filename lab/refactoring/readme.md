@@ -22,6 +22,6 @@ Study the file '**introduce_explaining_variable3.py**'. Use Replace Temp with qu
 
 Study the file '**extract_method3.py**'. Use 'extract method' technique to improve modularity of the code. 
 
-## Exercise 6: 'Replace Temp with query' Technique
+## Exercise 6: Various Techniques
 
-Study the file '**replace_temp_with_query.py**'. Use 'Replace Temp with query' technique to improve readability of the code. 
+Study the file '**replace_temp_with_query.py**'. Use 'Replace Temp with query' and 'Extract Method' techniques to improve readability of the code. 
