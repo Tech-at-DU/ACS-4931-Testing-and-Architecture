@@ -1,6 +1,6 @@
 # Lab: Refactoring
 
-In this series of exercises, we practice various refactoring techniques. You may also want to run pylint on this script to find any pep8 compliance issues. Fix as much as issues you can.
+In this series of exercises, we practice various refactoring techniques. You may want to run pylint on this script to find any pep8 compliance issues. Fix as much as issues you can.
 
 ## Exercise 1: 'Extract Method' Technique
 
@@ -24,4 +24,4 @@ Study the file '**extract_method3.py**'. Use 'extract method' technique to impro
 
 ## Exercise 6: 'Replace Temp with query' Technique
 
-Study the file '**replace_temp_with_query.py**'. Use Replace Temp with query' technique to improve readability of the code. 
+Study the file '**replace_temp_with_query.py**'. Use 'Replace Temp with query' technique to improve readability of the code. 
