@@ -1,5 +1,6 @@
 # by Kami Bigdely
 # Inline method.
+# TODO: Refactor this program to improve its readability.
 
 LEGAL_DRINKING_AGE = 18
 class Person:
