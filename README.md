@@ -36,7 +36,7 @@ Students by the end of the course will be able to ...
 |  2 |  Tue, Jan 26                      | [Debugging Techniques](https://docs.google.com/presentation/d/1JFOS4z4hhejgyR7_jBDGOFBywJrqik1Bb18c_sugsDc/edit?usp=sharing) |
 |  3 |  Thu, Jan 28                         | [Using a Debugger](https://docs.google.com/presentation/d/1Lf1UfOtA02nUmL53Gf8CJwqEpaVXicpvSOa-mTuh8rg/edit?usp=sharing) |
 |  4 |  Tue, Feb 2                     | [Refactoring - PEP 8](https://docs.google.com/presentation/d/1d-uhUf_7v4PfbMFO_1sFcaRC5koy-hpoPCtq3Oku4ns/edit?usp=sharing) |
-|  5 |  Thu, Feb 4                        | Refactoring - Composing Methods |
+|  5 |  Thu, Feb 4                        | [Refactoring - Composing Methods](https://docs.google.com/presentation/d/1vurOh1MhSBfVDTvbFwbgTEEPOgiC7M5pIUt-jCyHIj4/edit?usp=sharing) |
 |  6 |  Tue, Feb 9                     |  Refactoring -  Organizing Data  |
 |  7 |  Tue, Feb 11                     |  Refactoring - Simplifying Conditional Expressions |              |
 |  8 |  Tue, Feb 16                     | Refactoring - Other Refactoring Techniques |
