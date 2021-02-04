@@ -1,4 +1,4 @@
-# Lab: Refactoring
+# Refactoring: Composing Methods
 
 In this series of exercises, we practice various refactoring techniques. You may want to run pylint on this script to find any pep8 compliance issues. Fix as much as issues you can.
 
