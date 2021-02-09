@@ -45,3 +45,10 @@ Study the file '**split_temp_variable2.py**'. Use 'split temporary variable' tec
 ## Exercise 11: 'Introducing Explaining Variable' Technique
 
 Study the file '**introduce_explaining_variable.py**'. Use Replace Temp with query' technique to improve readability of the code. 
+
+
+# Where to Submit Your Answer
+
+Please submit your work to Gradescope.
+
+Submit your work for Exercise 7 to Exercise 10 at https://www.gradescope.com/courses/206382/assignments/1007195
