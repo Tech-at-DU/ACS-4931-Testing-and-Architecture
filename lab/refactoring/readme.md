@@ -26,7 +26,7 @@ Study the file '**extract_method3.py**'. Use 'extract method' technique to impro
 
 Study the file '**replace_temp_with_query.py**'. Use 'Replace Temp with query' and 'Extract Method' techniques to improve readability of the code.
 
-## Exercise 7: 'Split temporary variable' Technique
+## Exercise 7: 'Split Temporary Variable' Technique
 
 Study the file '**split_temp_variable.py**'. Use 'split temporary variable' technique to clarify the code (make it easier to understand its intent.)
 
@@ -41,3 +41,7 @@ Study the file '**rename_method.py**'. Use 'rename method' technique to clarify 
 ## Exercise 10: 'Split Temporary Variable' Technique
 
 Study the file '**split_temp_variable2.py**'. Use 'split temporary variable' technique to clarify the code (make it easier to understand its intent.)
+
+## Exercise 11: 'Introducing Explaining Variable' Technique
+
+Study the file '**introduce_explaining_variable.py**'. Use Replace Temp with query' technique to improve readability of the code. 
