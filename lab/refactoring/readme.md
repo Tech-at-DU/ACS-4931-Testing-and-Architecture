@@ -89,4 +89,4 @@ Please submit your work to Gradescope.
 
 - Submit your work for Exercise 7 to Exercise 10 at [Refactoring - Composing Methods (2)](https://www.gradescope.com/courses/206382/assignments/1007195)
 
-- Submit your work for Exercise 11 to 20 at [Refactoring - Simplifying Conditional Expressions](https://www.gradescope.com/courses/206382/assignments/1013900)
+- Submit your work for Exercise 12 to 20 at [Refactoring - Simplifying Conditional Expressions](https://www.gradescope.com/courses/206382/assignments/1013900)
