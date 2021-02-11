@@ -72,7 +72,7 @@ Study '**decompose_conditional.py**' file. Use 'decompose conditional' technique
 
 ## Exercise  18: 'Consolidate Duplicate Conditional Fragments' Technique
 
-Study '**consolidate_duplicate_conditional_fragments.py**' file. Use 'consolidate duplicate conditional fragments' Technique to improve the code.
+Study '**consolidate_duplicate_conditional_fragments2.py**' file. Use 'consolidate duplicate conditional fragments' Technique to improve the code.
 
 ## Exercise 19: 'Remove Control Flag' Technique
 
@@ -81,10 +81,6 @@ Study '**remove_control_flag2.py**' and '**remove_control_flag3.py**'. Use 'remo
 ## Exercise 20: 'Replace Nested Conditional With Gaurd Clauses' Technique
 
 Study '**replace_nested_conditional_with_gaurd_clauses.py**'. Use 'replace nested conditional with gaurded clauses' technique in combination with any other refactoring technique you've learned to improve readability/modularity of the code.
-
-
-Study '**consolidate_duplicate_conditional_fragments2.py**' file. Use 'consolidate duplicate conditional fragments' technique in combination with any other refactoring technique you've learned to improve readability/modularity of the code.
-
 
 
 # Where to Submit Your Answer
