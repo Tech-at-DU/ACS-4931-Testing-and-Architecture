@@ -4,19 +4,19 @@ In this series of exercises, we practice various refactoring techniques. You may
 
 ## Exercise 1: 'Extract Method' Technique
 
-Study the file '**extract_method.py**'. Use 'extract method' technique to improve modularity of the code. 
+Study the file '**extract_method.py**'. Use 'extract method' technique to improve modularity of the code.
 
 ## Exercise 2: 'Inline Method' Technique
 
-Study the file '**inline_method.py**'. Use 'inline method' technique to improve readability of the code. 
+Study the file '**inline_method.py**'. Use 'inline method' technique to improve readability of the code.
 
 ## Exercise 3: 'Replace Temp with query' Technique
 
-Study the file '**replace_temp_with_query_fowler.py**'. Use Replace Temp with query' technique to improve readability of the code. 
+Study the file '**replace_temp_with_query_fowler.py**'. Use Replace Temp with query' technique to improve readability of the code.
 
 ## Exercise 4: 'Introducing Explaining Variable' Technique
 
-Study the file '**introduce_explaining_variable3.py**'. Use Replace Temp with query' technique to improve readability of the code. 
+Study the file '**introduce_explaining_variable3.py**'. Use Replace Temp with query' technique to improve readability of the code.
 
 ## Exercise 5: 'Extract Method' Technique
 
@@ -44,11 +44,11 @@ Study the file '**split_temp_variable2.py**'. Use 'split temporary variable' tec
 
 ## Exercise 11: 'Introducing Explaining Variable' Technique
 
-Study the file '**introduce_explaining_variable.py**'. Use 'Replace Temp with query' technique to improve readability of the code. 
+Study the file '**introduce_explaining_variable.py**'. Use 'Replace Temp with query' technique to improve readability of the code.
 
 ## Exercise 12: 'Decompose Conditional' Technique
 
-Study the file '**decompose_conditional2.py**'. Use 'decompose conditional' technique to improve readability of the code. 
+Study the file '**decompose_conditional2.py**'. Use 'decompose conditional' technique to improve readability of the code.
 
 ## Exercise  13: 'Consolidate Conditional Expression' Technique
 
@@ -83,6 +83,30 @@ Study '**remove_control_flag2.py**' and '**remove_control_flag3.py**'. Use 'remo
 Study '**replace_nested_conditional_with_gaurd_clauses.py**'. Use 'replace nested conditional with gaurded clauses' technique in combination with any other refactoring technique you've learned to improve readability/modularity of the code.
 
 
+## Exercise 21: 'Move Attribute' Technique
+
+Study '**move_field2.py**'. Use 'move attribute' technique in combination with any other refactoring technique you've learned to improve readability/modularity of the code.
+
+## Exercise 22: 'Extract Class' Technique
+
+Study '**extract_class.py**'. Use 'extract class' technique in combination with any other refactoring technique you've learned to improve readability/modularity of the code.
+
+## Exercise 23: 'Extract Class' Technique
+
+Study '**extract_class2.py**'. Use 'extract class' technique in combination with any other refactoring technique you've learned to improve readability/modularity of the code.
+
+## Exercise 24: 'Extract Class' Technique
+
+Study '**extract_class3.py**'. Use 'extract class' technique in combination with any other refactoring technique you've learned to improve readability/modularity of the code.
+
+## Exercise 25: 'Replace Magic Number with Symbolic Constant' Technique
+
+Study '**replace_magic_numbers_with_named_constants.py**'. Use 'replace magic number with symbolic constant' technique in combination with any other refactoring technique you've learned to improve readability/modularity of the code.
+
+## Exercise 26: 'Extract Superclass' Technique
+
+Study '**extract_superclass2.py**'. Use 'extract class' technique in combination with any other refactoring technique you've learned to improve readability/modularity of the code.
+
 # Where to Submit Your Answer
 
 Please submit your work to Gradescope.
@@ -90,3 +114,5 @@ Please submit your work to Gradescope.
 - Submit your work for Exercise 7 to Exercise 10 at [Refactoring - Composing Methods (2)](https://www.gradescope.com/courses/206382/assignments/1007195)
 
 - Submit your work for Exercise 11 to 20 at [Refactoring - Simplifying Conditional Expressions](https://www.gradescope.com/courses/206382/assignments/1013900)
+
+- Submit your work for Exercise 21 to 26 at [Refactoring - other refactoring](https://www.gradescope.com/courses/206382/assignments/1025910)
