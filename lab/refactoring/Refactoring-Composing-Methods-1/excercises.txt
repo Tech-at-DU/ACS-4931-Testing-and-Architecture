@@ -1,6 +1,0 @@
-https://raw.githubusercontent.com/Make-School-Courses/SPD-2.31-Testing-and-Architecture/master/lab/refactoring/Refactoring-Composing-Methods-1/extract_method.py
-https://raw.githubusercontent.com/Make-School-Courses/SPD-2.31-Testing-and-Architecture/master/lab/refactoring/Refactoring-Composing-Methods-1/extract_method3.py
-https://raw.githubusercontent.com/Make-School-Courses/SPD-2.31-Testing-and-Architecture/master/lab/refactoring/Refactoring-Composing-Methods-1/inline_method.py
-https://raw.githubusercontent.com/Make-School-Courses/SPD-2.31-Testing-and-Architecture/master/lab/refactoring/Refactoring-Composing-Methods-1/introduce_explaining_variable3.py
-https://raw.githubusercontent.com/Make-School-Courses/SPD-2.31-Testing-and-Architecture/master/lab/refactoring/Refactoring-Composing-Methods-1/replace_temp_with_query.py
-https://raw.githubusercontent.com/Make-School-Courses/SPD-2.31-Testing-and-Architecture/master/lab/refactoring/Refactoring-Composing-Methods-1/replace_temp_with_query_fowler.py
