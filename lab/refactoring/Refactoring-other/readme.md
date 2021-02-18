@@ -12,7 +12,7 @@ Study '**[move_field2.py](./move_field2.py)**'. Use 'move attribute' technique i
 
 ## Exercise 22: 'Extract Class' Technique
 
-Study '**[move_field2.py](./move_field2.py)**'. Use 'extract class' technique in combination with any other refactoring technique you've learned to improve readability/modularity of the code.
+Study '**[extract_class.py](./extract_class.py)**'. Use 'extract class' technique in combination with any other refactoring technique you've learned to improve readability/modularity of the code.
 
 ## Exercise 23: 'Extract Class' Technique
 
