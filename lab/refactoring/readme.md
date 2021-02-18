@@ -124,6 +124,7 @@ current files are:
 - refactor-other.txt
 
 A more in depth usage is [here](./wget/readme.md)
+
 # Where to Submit Your Answer
 
 Please submit your work to Gradescope.
