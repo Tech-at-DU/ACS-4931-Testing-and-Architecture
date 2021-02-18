@@ -29,3 +29,11 @@ Study '**[replace_magic_numbers_with_named_constants.py](./replace_magic_numbers
 ## Exercise 26: 'Extract Superclass' Technique
 
 Study '**[extract_superclass2.py](./extract_superclass2.py)**'. Use 'extract class' technique in combination with any other refactoring technique you've learned to improve readability/modularity of the code.
+
+## Wget
+
+If students want only the excercises run wget
+
+```bash
+wget -i https://raw.githubusercontent.com/NinjaAung/SPD-2.31-Testing-and-Architecture/master/lab/refactoring/Refactoring-Other/excercises.txt
+```

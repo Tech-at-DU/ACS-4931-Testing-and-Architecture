@@ -21,3 +21,11 @@ Study the file '**[rename_method.py](./rename_method.py)**'. Use 'rename method'
 ## Exercise 10: 'Split Temporary Variable' Technique
 
 Study the file '**[split_temp_variable2.py](./split_temp_variable2.py)**'. Use 'split temporary variable' technique to clarify the code (make it easier to understand its intent.)
+
+## Wget
+
+If students want only the excercises run wget
+
+```bash
+wget -i https://raw.githubusercontent.com/NinjaAung/SPD-2.31-Testing-and-Architecture/master/lab/refactoring/Refactoring-Composing-Methods-2/excercises.txt
+```
