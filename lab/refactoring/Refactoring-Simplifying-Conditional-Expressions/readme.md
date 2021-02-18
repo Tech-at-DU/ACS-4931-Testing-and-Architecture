@@ -2,9 +2,9 @@
 
 Here students will apply what they learned in class in the following Excercises
 
-## Excercise 11-20: Refactoring Composing Methods
+## Excercise 11-20: Simplifying Condiitional Expressions
 
-Please submit exercises 11-20 in [Refactoring - Simplifying Conditional Expressions](https://www.gradescope.com/courses/206382/assignments/1013900)
+Please submit exercises 11-20 in [Gradescope: Refactoring - other refactoring](https://www.gradescope.com/courses/206382/assignments/1025910)
 
 ## Exercise 11: 'Introducing Explaining Variable' Technique
 

@@ -2,7 +2,7 @@
 
 Here students will apply what they learned in class in the following Excercises
 
-## Excercise 7-10: Refactoring Composing Methods
+## Excercise 7-10: Refactoring Composing Methods (2)
 
 Please submit exercises 7-10 in [Gradescope: Refactoring - Composing Methods (2)](https://www.gradescope.com/courses/206382/assignments/1007195)
 
