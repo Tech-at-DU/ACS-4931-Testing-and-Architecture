@@ -118,12 +118,12 @@ wget -i https://raw.githubusercontent.com/Make-School-Courses/SPD-2.31-Testing-a
 
 current files are:
 
-- refactor-1.txt 
+- refactor-1.txt
 - refactor-2.txt
 - refactor-simplifying-condition.txt
 - refactor-other.txt
 
-
+A more in depth usage is [here](./wget/readme.md)
 # Where to Submit Your Answer
 
 Please submit your work to Gradescope.
