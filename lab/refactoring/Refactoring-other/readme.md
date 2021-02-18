@@ -35,5 +35,5 @@ Study '**[extract_superclass2.py](./extract_superclass2.py)**'. Use 'extract cla
 If students want only the excercises run wget
 
 ```bash
-wget -i https://raw.githubusercontent.com/NinjaAung/SPD-2.31-Testing-and-Architecture/master/lab/refactoring/Refactoring-Other/excercises.txt
+wget -i https://raw.githubusercontent.com/Make-School-Courses/SPD-2.31-Testing-and-Architecture/master/lab/refactoring/Refactoring-Other/excercises.txt
 ```

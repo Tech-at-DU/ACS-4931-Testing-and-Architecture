@@ -34,6 +34,6 @@ Study the file '**[replace_temp_with_query.py](./replace_temp_with_query.py)**'.
 
 If students want only the excercises run wget
 
-```bashs
-wget -i https://raw.githubusercontent.com/NinjaAung/SPD-2.31-Testing-and-Architecture/master/lab/refactoring/Refactoring-Composing-Methods-1/excercises.txt
+```bash
+wget -i https://raw.githubusercontent.com/Make-School-Courses/SPD-2.31-Testing-and-Architecture/master/lab/refactoring/Refactoring-Composing-Methods-1/excercises.txt
 ```

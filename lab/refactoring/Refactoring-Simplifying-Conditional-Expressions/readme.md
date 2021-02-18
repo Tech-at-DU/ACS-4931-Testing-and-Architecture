@@ -51,5 +51,5 @@ Study '**[replace_nested_conditional_with_gaurd_clauses.py](./replace_nested_con
 If students want only the excercises run wget
 
 ```bash
-wget -i https://raw.githubusercontent.com/NinjaAung/SPD-2.31-Testing-and-Architecture/master/lab/refactoring/Refactoring-Simplifying-Conditional-Expressions
+wget -i https://raw.githubusercontent.com/Make-School-Courses/SPD-2.31-Testing-and-Architecture/master/lab/refactoring/Refactoring-Simplifying-Conditional-Expressions/excercuses.txt
 ```

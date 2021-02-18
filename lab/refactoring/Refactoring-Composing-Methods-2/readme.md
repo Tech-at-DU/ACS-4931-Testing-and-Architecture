@@ -27,5 +27,5 @@ Study the file '**[split_temp_variable2.py](./split_temp_variable2.py)**'. Use '
 If students want only the excercises run wget
 
 ```bash
-wget -i https://raw.githubusercontent.com/NinjaAung/SPD-2.31-Testing-and-Architecture/master/lab/refactoring/Refactoring-Composing-Methods-2/excercises.txt
+wget -i https://raw.githubusercontent.com/Make-School-Courses/SPD-2.31-Testing-and-Architecture/master/lab/refactoring/Refactoring-Composing-Methods-2/excercises.txt
 ```
