@@ -1,5 +1,5 @@
 # by Kami Bigdely
-# Replace nested conditional with gaurd clauses
+# Replace nested conditional with guard clauses
 
 def extract_position(line):
     if not line:
