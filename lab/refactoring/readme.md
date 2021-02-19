@@ -62,9 +62,9 @@ Study the file '**[consolidate_duplicate_conditional_fragments.py](./consolidate
 
 Study the file '**[remove_control_flag.py](./remove_control_flag.py)**'. Use 'remove control flag' technique to improve readability of the code.
 
-## Exercise  16: 'Replace Nested Conditional with Gaurd Clauses' Technique
+## Exercise  16: 'Replace Nested Conditional with guard Clauses' Technique
 
-Study the file '**[replace_nested_conditional_with_gaurd_clauses2.py](./replace_nested_conditional_with_gaurd_clauses2.py)**'.py. Use 'Replace Nested Conditional with Gaurd Clauses' technique to improve readability of the code.
+Study the file '**[replace_nested_conditional_with_guard_clauses2.py](./replace_nested_conditional_with_guard_clauses2.py)**'.py. Use 'Replace Nested Conditional with Guard Clauses' technique to improve readability of the code.
 
 ## Exercise  17: 'Decompose Conditional' Technique
 
@@ -77,10 +77,10 @@ Study '**[consolidate_duplicate_conditional_fragments2.py](./consolidate_duplica
 ## Exercise 19: 'Remove Control Flag' Technique
 
 Study '**[remove_control_flag2.py](./remove_control_flag2.py)**' and '**[remove_control_flag3.py](./remove_control_flag3.py)**'. Use 'remove control flag' technique in combination with any other refactoring technique you've learned to improve readability of the code.
+q
+## Exercise 20: 'Replace Nested Conditional With Guard Clauses' Technique
 
-## Exercise 20: 'Replace Nested Conditional With Gaurd Clauses' Technique
-
-Study '**[replace_nested_conditional_with_gaurd_clauses.py](./replace_nested_conditional_with_gaurd_clauses.py)**'. Use 'replace nested conditional with gaurded clauses' technique in combination with any other refactoring technique you've learned to improve readability/modularity of the code.
+Study '**[replace_nested_conditional_with_guard_clauses.py](./replace_nested_conditional_with_guard_clauses.py)**'. Use 'replace nested conditional with guarded clauses' technique in combination with any other refactoring technique you've learned to improve readability/modularity of the code.
 
 ## Exercise 21: 'Move Attribute' Technique
 
