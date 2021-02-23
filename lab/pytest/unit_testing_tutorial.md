@@ -323,6 +323,8 @@ Generally speaking, fixtures are functions that pytest runs them before (and som
 
 It is notable that each test is provided with a newly-initialized ‘Wallet’ instance, and not one that has been used in another test. Also it is a good practice to add docstirngs to your fixture functions. It helps you and other testers to quickly understand the fixure functions and their specific purpose.
 
+**Note:** Read section "Parametrized Test Functions" and "Combining Test Fixtures and Parametrized Test Functions" on [this blog post](https://semaphoreci.com/community/tutorials/testing-python-applications-with-pytest).
+
 ## 	Exercise 3 (to be submitted to gradescope)
 
 Write a unit test for ```calculate_stat()``` function.
