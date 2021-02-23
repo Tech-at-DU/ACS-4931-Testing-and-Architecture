@@ -136,7 +136,6 @@ def palindrome(word):
     if not isinstance(word, str):
         raise TypeError('Please provide a string argument')
     return word == word[::-1]
-
 ```
 
 This code checks whether a word is a palindrome or not. For example, it return True if we give it ‘hannah’ and False for ‘kami’. Also it raises a TypeError exception if the input parameter is not a string. For example, the method call
@@ -327,7 +326,7 @@ It is notable that each test is provided with a newly-initialized ‘Wallet’ i
 
 ## 	Exercise 3 (to be submitted to gradescope)
 
-Write a unit test for ```calculate_stat()``` function.
+Write a unit test for ```calculate_stat()``` function. Submit it at [Unit Testing 1](https://www.gradescope.com/courses/206382/assignments/1045905) at gradescope.
 
 ```python
 # Written by Kamran Bigdely
@@ -376,7 +375,7 @@ display_grade_stat()
 
 ## Exercise 4 (to be submitted to gradescope)
 
-Write a unit test for ```extract_position()``` function.
+Write a unit test for ```extract_position()``` function. Submit it at [Unit Testing 1](https://www.gradescope.com/courses/206382/assignments/1045905) at gradescope.
 ```python
 # by Kami Bigdely
 # Replace nested conditional with gaurd clauses
