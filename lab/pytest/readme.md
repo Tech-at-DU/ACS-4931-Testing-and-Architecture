@@ -107,7 +107,7 @@ You get a similar output:
 The failing test, test_calculate_kinetic_energy(), gets its own section to show us why it failed: the calculate_kinetic_energy(10, 4) returned 160 but it should have become 80 instead. Much of this is in red to make it really stand out (if you’ve got a color terminal).
 As you see, pytest is a powerful tool to test your code.
 
-## Exercise 1
+## Practice 1
 
 Assume you are a developer working for a company. They have asked you to write unit tests for one of their software packages. You encounter the following function:
 
@@ -469,6 +469,11 @@ Now, let’s write a unit test for it:
 def test_get_average_empty_list():
     assert math.isnan(get_average([]))
 ```
+
+
+## Waht and Where to Submit
+
+Submit **exercises 2, 3 and 4** at [Unit Testing 1](https://www.gradescope.com/courses/206382/assignments/1045905) at gradescope.
 ## Reference and further studies
 
 1. .[Pytest Installation and Getting Started
