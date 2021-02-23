@@ -41,7 +41,7 @@ Students by the end of the course will be able to ...
 |  7 |  Tue, Feb 11                     |  [Refactoring - Simplifying Conditional Expressions](https://docs.google.com/presentation/d/1cJyY00m2iAOq1oq_hZCt3_3iNhbu2TqZvEcf3aF4jG4/edit?usp=sharing) |              |
 |  8 |  Tue, Feb 16                     | [Refactoring - Other Refactoring Techniques](https://docs.google.com/presentation/d/1iHNX9A0Zzi_cjBn_dL1A-7kzB3qO6KbaUXQ9B3IaWT0/edit?usp=sharing) |
 |  9 |  Thu, Feb 18                      | Refactoring  - Lab|
-| 10 |  Tue, Feb 23                     | Unit Testing 1 |
+| 10 |  Tue, Feb 23                     | [Unit Testing 1](https://github.com/Make-School-Courses/SPD-2.31-Testing-and-Architecture/tree/master/lab/pytest) |
 | 11 |  Thu, Feb 25                        | Unit Testing 2|
 | 12 |  Tue, March 2                        | Architecture - Design Patterns 1|
 | 13 |  Thu, March 4                           | Architecture - Design Patterns 2|
