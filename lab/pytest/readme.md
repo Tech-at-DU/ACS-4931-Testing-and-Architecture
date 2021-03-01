@@ -471,7 +471,7 @@ def test_get_average_empty_list():
 ```
 
 
-## Waht and Where to Submit
+## What and Where to Submit
 
 Submit **exercises 2, 3 and 4** at [Unit Testing 1](https://www.gradescope.com/courses/206382/assignments/1045905) at gradescope.
 ## Reference and further studies
