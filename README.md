@@ -43,7 +43,7 @@ Students by the end of the course will be able to ...
 |  9 |  Thu, Feb 18                      | Refactoring  - Lab|
 | 10 |  Tue, Feb 23                     | [Unit Testing 1](https://github.com/Make-School-Courses/SPD-2.31-Testing-and-Architecture/tree/master/lab/pytest) |
 | 11 |  Thu, Feb 25                        | [Architecture: The Observer Design Pattern](https://docs.google.com/document/d/1jyrxxQyrVxBG9S_hXYI69ytUMdxQdApyM6MO2CwvYj4/edit?usp=sharing)|
-| 12 |  Tue, March 2                        | Architecture - Design Patterns 2|
+| 12 |  Tue, March 2                        | [Architecture - State Pattern](https://docs.google.com/document/d/1wiD0N9OFVyZz0SASkcnY-cYfIdPfv1SBH9q0ke65rxk/edit?usp=sharing)|
 | 13 |  Thu, March 4                           | [Final Exam](./final-exam) |
 
 ## Assignment Schedule
