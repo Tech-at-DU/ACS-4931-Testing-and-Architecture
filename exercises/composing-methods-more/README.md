@@ -4,16 +4,16 @@ In this series of exercises, we practice various refactoring techniques. You may
 
 ## TODO
 - [ ] Exercise 7: 'Split Temporary Variable' Technique
-  - Study the files [composing-methods-more/burger_toppings.py](composing-methods-more/burger_toppings.py) and use `split temporary variable` technique to clarify the code (make it easier to understand its intent.)
+  - Study the files [burger_toppings.py](burger_toppings.py) and use `split temporary variable` technique to clarify the code (make it easier to understand its intent.)
 
 - [ ] Exercise 8: 'Remove Assignment to Method Parameter' Technique
-  - Study the file [composing-methods-more/kinetic_energy.py](composing-methods-more/kinetic_energy.py). Use `remove assignment to method parameter` technique to prevent future mistakes/bugs.
+  - Study the file [kinetic_energy.py](kinetic_energy.py). Use `remove assignment to method parameter` technique to prevent future mistakes/bugs.
 
 - [ ] Exercise 9: 'Rename Method' Technique
-  - Study the file [composing-methods-more/calculate_area.py](composing-methods-more/calculate_area.py). Use `rename method` technique to clarify the code (make it easier to understand its intent.)
+  - Study the file [calculate_area.py](calculate_area.py). Use `rename method` technique to clarify the code (make it easier to understand its intent.)
 
 - [ ] Exercise 10: 'Split Temporary Variable' Technique
-  - Study the file [composing-methods-more/kinetic_energy.py](composing-methods-more/kinetic_energy.py). Use `split temporary variable` technique to clarify the code (make it easier to understand its intent.)
+  - Study the file [kinetic_energy.py](kinetic_energy.py). Use `split temporary variable` technique to clarify the code (make it easier to understand its intent.)
 
 # Where to Submit Your Answer
 

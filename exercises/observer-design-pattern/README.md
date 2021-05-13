@@ -1,5 +1,8 @@
 # Design Patterns - Observer Pattern
-https://docs.google.com/document/d/1KsxwtoQ-R4H1HBObjIGqJizBcPoNhYBYcYHKMUthqV8/view
+This repo contains the relevant files from the   
+ [Weather Challenge [Google Doc] ](https://docs.google.com/document/d/1KsxwtoQ-R4H1HBObjIGqJizBcPoNhYBYcYHKMUthqV8/view)
+
+ Please read and follow along with the steps listed there for more information on how to use these files. 
 
 # TODO
 

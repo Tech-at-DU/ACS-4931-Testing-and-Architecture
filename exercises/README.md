@@ -10,7 +10,7 @@ This repo houses SPD 2.31 Lab Challenges with an experimental project layout to 
 - First, `clone` the repo
 - Then checkout the branch you need.  `git checkout -b <branch-name>`
 - If necessary, `git rm -r --cached .` 
-- Gitignore what you need
+- `gitignore` what you need
 - When finished, add, Commit and Push your work to that branch and select it when submitting to Gradescope.
 
 ### Branch Names
