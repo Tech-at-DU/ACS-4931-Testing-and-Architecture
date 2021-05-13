@@ -3,19 +3,19 @@
 In this series of exercises, we practice various refactoring techniques. You may want to run pylint on this script to find any pep8 compliance issues. Fix as much as issues you can.
 
 - [ ]  Exercise 11: 'Introducing Explaining Variable' Technique
-  - Study the file `gauge_eyeballs.py`. Use 'Replace Temp with query' technique to improve readability of the code. 
+  - Study the file [gauge_eyeballs.py](gauge_eyeballs.py). Use 'Replace Temp with query' technique to improve readability of the code. 
 
 - [ ]  Exercise 12: 'Decompose Conditional' Technique
-  - Study the file `detect_toxins.py`. Use 'decompose conditional' technique to improve readability of the code. 
+  - Study the file [detect_toxins.py](detect_toxins.py). Use 'decompose conditional' technique to improve readability of the code. 
 
 - [ ]  Exercise  13: 'Consolidate Conditional Expression' Technique
-  - Study the file `mix_ice_cream.py`. Use 'consolidate conditional expression' technique to improve readability of the code.
+  - Study the file [mix_ice_cream.py](mix_ice_cream.py). Use 'consolidate conditional expression' technique to improve readability of the code.
 
 - [ ]  Exercise  14: 'Consolidate Duplicate Conditional Fragments' Technique
-  - Study the file `make_shirazi_salad.py` Use 'consolidate duplicate conditional fragments' technique to improve readability of the code.
+  - Study the file [make_shirazi_salad.py](make_shirazi_salad.py) Use 'consolidate duplicate conditional fragments' technique to improve readability of the code.
 
 - [ ]  Exercise  15: 'Remove Control Flag' Technique
-  - Study the file `find_food.py`. Use 'remove control flag' technique to improve readability of the code.
+  - Study the file [find_food.py](find_food.py). Use 'remove control flag' technique to improve readability of the code.
 
 - [ ]  Exercise  16: 'Replace Nested Conditional with Guard Clauses' Technique
   - Study the file `extract_position.py`. Use 'Replace Nested Conditional with Guard Clauses' technique to improve readability of the code.
