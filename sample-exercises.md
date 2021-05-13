@@ -1,4 +1,4 @@
-# SPD 2.3 Sample Assingments
+# SPD 2.3 Sample Assignments
 
 - Download [Debugging Exercises](https://github.com/Make-School-Labs/SPD-2.3-Debugging-Steps-Lab) and solve them.
 
