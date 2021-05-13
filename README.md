@@ -1,5 +1,16 @@
 # SPD 2.31 Testing and Architecture
 
+# Table of Contents
+  - [Course Description](#course-description)
+  - [Prerequisites](#prerequisites)
+  - [Course Specifics](#course-specifics)
+  - [Learning Outcomes](#learning-outcomes)
+  - [Schedule](#schedule)
+  - [Assignment Schedule](#assignment-schedule)
+    - [Assignments](exercises/README.md) (found in /exercises)
+  - [Evaluation](#evaluation)
+  - [Information Resources](#information-resources)
+  - [Make School Course Policies](#make-school-course-policies)
 ## Course Description
 
 This course focuses on advanced topics such as debugging, unit testing, refactoring and design patterns. Students apply these concepts to existing portfolio projects to improve code qualities such as readability, modularity and extensibility. Topics covered include: debugging techniques, unit-testing, refactoring techniques, design patterns and navigating massive codebases. By the end of the course, students have practical knowledge of writing python unit tests, refactoring legacy code and implementing some design patterns. 
@@ -64,7 +75,7 @@ The assignments cover debugging, refactoring, unit testing and architecture topi
 1. Unit Test 1 and Unit Test 2. The assignments include writing unit tests for a tic-tac-toe program.
 1. Architecture 1 and 2. The assignments include refactoring a program to use the observer pattern and finite state machine pattern. 
 
-Please refer to [refactoring tutorial and exercises](https://github.com/Make-School-Courses/SPD-2.31-Testing-and-Architecture/tree/master/lab/refactoring) and [sample-exercises.md](sample-exercises.md) for details.
+Please refer to [exercises](/exercises/README.md) and for details.
 For assignments due dates please refer to Gradescope. As a rule of thumb, the due date of an assignment is one to two weeks after its corresponding lesson is taught.
 
 ## Evaluation

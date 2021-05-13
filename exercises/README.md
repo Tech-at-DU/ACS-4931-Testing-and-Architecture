@@ -1,7 +1,7 @@
 # SPD 2.31 Labs
 This repo houses SPD 2.31 Lab Challenges with an experimental project layout to allows one course repo but separate 'DRY' branch submissions to Gradescope if not individual file upload/drag-and-drop
 
-## Optional Branch Workflow for Submitting to Gradescope
+## OPTIONAL Branch Workflow for Submitting to Gradescope
 
 ## Important Notes
 - The main repo contains all of the course materials
@@ -13,7 +13,7 @@ This repo houses SPD 2.31 Lab Challenges with an experimental project layout to 
 - `gitignore` what you need
 - When finished, add, Commit and Push your work to that branch and select it when submitting to Gradescope.
 
-### Branch Names
+### Suggested Branch Names & Corresponding Lessons
 | &check; | Class | Topics                                                                                                                                                    | Branch                        |
 |-| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
 | | 1     | [Debugging Steps](https://docs.google.com/presentation/d/1gHNAh4z_IFsW9lQbBWDtULEDxX7YCjgh9U4NJAivt00/edit?usp=sharing)                                   | `git checkout debug-steps`                   |
