@@ -41,21 +41,21 @@ Students by the end of the course will be able to ...
 **Course Dates:** Thu, Jan 21 – Thu, March 4, 2021 (7 weeks)<br>
 **Class Times:** Tue and Thu at 9:30am –12:15pm (13 class sessions)
 
-| Class | Topics                                                                                                                       |
-| :---: | ---------------------------------------------------------------------------------------------------------------------------- |
-|   1   | [Debugging Steps](https://docs.google.com/presentation/d/1xBAFUqFhnP7nPlv1jpEDoTKj7pJfKz3hceGqBj-vIaQ/edit?usp=sharing)      |
-|   2   | [Debugging Techniques](https://docs.google.com/presentation/d/1cbpF_nOeNa6jkCm31C87SYG_s1HatExg5EoqqEiC_xg/edit?usp=sharing) |
-|   3   | [Using a Debugger](https://docs.google.com/presentation/d/1HR5eBRIePQCfLcP7CUfisZo1lytHIfkNL7KLTAYyCcs/edit?usp=sharing)     |
-|   4   | [Refactoring - PEP 8]()                                                                                                      |
-|   5   | [Refactoring - Composing Methods]()                                                                                          |
-|   6   | [Refactoring -  Composing Methods 2]()                                                                                       |
-|   7   | [Refactoring - Simplifying Conditional Expressions]()                                                                        |
-|   8   | [Refactoring - Other Refactoring Techniques]()                                                                               |
-|   9   | Refactoring  - Lab                                                                                                           |
-|  10   | [Unit Testing 1](https://github.com/Tech-at-DU/ACS-4931-Testing-and-Architecture/tree/master/lab/pytest)                     |
-|  11   | [Architecture: The Observer Design Pattern]()                                                                                |
-|  12   | [Architecture - State Pattern]()                                                                                             |
-|  13   | [Final Exam](./final-exam)                                                                                                   |
+| Class | Topics                                                                                                                                                    |
+| :---: | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1   | [Debugging Steps](https://docs.google.com/presentation/d/1xBAFUqFhnP7nPlv1jpEDoTKj7pJfKz3hceGqBj-vIaQ/edit?usp=sharing)                                   |
+|   2   | [Debugging Techniques](https://docs.google.com/presentation/d/1cbpF_nOeNa6jkCm31C87SYG_s1HatExg5EoqqEiC_xg/edit?usp=sharing)                              |
+|   3   | [Using a Debugger](https://docs.google.com/presentation/d/1HR5eBRIePQCfLcP7CUfisZo1lytHIfkNL7KLTAYyCcs/edit?usp=sharing)                                  |
+|   4   | [Refactoring - PEP 8](https://docs.google.com/presentation/d/1a-9UNgFIFeg1lX6EVYYHGIF5a22zUkduhXXEXlNnEFE/edit?usp=sharing)                               |
+|   5   | [Refactoring - Composing Methods](https://docs.google.com/presentation/d/1l3KUFlhgG5Bo0cS0CEQNfm4gT6qv1KW8YRQ2wh3u1i0/edit?usp=sharing)                   |
+|   6   | [Refactoring -  Composing Methods 2](https://docs.google.com/presentation/d/1LRt-1pcpzWxHEVv4zFHRgVPGAJZ-WUQUPcr0Qje4FKI/edit?usp=sharing)                |
+|   7   | [Refactoring - Simplifying Conditional Expressions](https://docs.google.com/presentation/d/1T5AUbdwKxXbVuCt9bAbdkmhK4GMd1oO0eHKhToi49Ps/edit?usp=sharing) |
+|   8   | [Refactoring - Other Refactoring Techniques](https://docs.google.com/presentation/d/1L_6ZPOEO6EcfHU-RqwY9czebkXbw6nW-7_gz5mxhsNY/edit?usp=sharing)        |
+|   9   | Refactoring  - Lab                                                                                                                                        |
+|  10   | [Unit Testing 1](https://github.com/Tech-at-DU/ACS-4931-Testing-and-Architecture/tree/master/lab/pytest)                                                  |
+|  11   | [Architecture: The Observer Design Pattern](https://docs.google.com/document/d/11NclaPbHs4dRFzxIYtGprQrvHo6s2AM8jOflb9HOXVo/edit?usp=sharing)             |
+|  12   | [Architecture - State Pattern](https://docs.google.com/document/d/1QdwqSWXvto7mLPsLfsT37E0cNjpOouvNuI3gyVIHQM8/edit?usp=sharing)                          |
+|  13   | [Final Exam](./final-exam)                                                                                                                                |
 
 ## Assignment Schedule
 
@@ -65,18 +65,11 @@ As soon as grades are posted, you will be notified immediately so that you can l
 
 Your Gradescope login is your Make School email, and your password can be changed at https://gradescope.com/reset_password. The same link can be used if you need to set your password for the first time.
 
-The assignments cover debugging, refactoring, unit testing and architecture topics. The following is the list of assignment titles:
-1. Debugging: Gathering info and writing assumptions
-1. Refactoring - PEP 8: Improving Code Readability Using PEP 8. The assignments cover indentation, whitespaces, naming convention and docstrings.
-1. Refactoring - Composing Methods. The assignments cover various techniques including extract method, replace temp with query, introducing explaining variable, split temp variable and 'remove assignment to method parameters'.
-1. Refactoring - Moving Features and Organizing Data. The assignments include techniques such as extract class, Replace Magic numbers with constants.
-1. Refactoring - Simplifying Conditional Expressions. The assignments include techniques such as decompose conditional, consolidate conditionals, consolidate duplicates, remove control flags and Replace Nested Conditional with Guard Clauses.
-1. Refactoring - Other techniques. The assignment includes extract superclass technique.
-1. Unit Test 1 and Unit Test 2. The assignments include writing unit tests for a tic-tac-toe program.
-1. Architecture 1 and 2. The assignments include refactoring a program to use the observer pattern and finite state machine pattern.
+**The assignments cover debugging, refactoring, unit testing and architecture topics.**. Please refer to [exercises](/exercises/README.md) and for details.
 
-Please refer to [exercises](/exercises/README.md) and for details.
-For assignments due dates please refer to Gradescope. As a rule of thumb, the due date of an assignment is one to two weeks after its corresponding lesson is taught.
+For assignments and due dates, please refer to [Gradescope](https://www.gradescope.com).
+
+As a rule of thumb, the due date of an assignment is one to two weeks after its corresponding lesson is taught.
 
 ## Evaluation
 
@@ -93,19 +86,3 @@ To pass this course you must meet the following requirements:
 1. "Effective Python: 90 Specific Ways to Write Better Python" (2nd edition) by Brett Slatkin.
 1. [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 1. "Debugging: The 9 Indispensable Rules for Finding Even the Most Elusive Software and Hardware Problems" by  David J Agans
-
-Any additional resources you may need (online books, etc.) can be found here. You can also find additional resources through the library linked below:
-
-- [make.sc/library](http://make.sc/library)
-
-## Make School Course Policies
-
-- [Program Learning Outcomes](https://make.sc/program-learning-outcomes) - What you will achieve after finishing Make School, all courses are designed around these outcomes.
-- [Grading System](https://make.sc/grading-system) - How grading is done at Make School
-- [Code of Conduct, Equity, and Inclusion](https://make.sc/code-of-conduct) - Learn about Diversity and Inclusion at Make School
-- [Academic Honesty](https://make.sc/academic-honesty-policy) - Our policies around plagiarism, cheating, and other forms of academic misconduct
-- [Attendance Policy](https://make.sc/attendance-policy) - What we expect from you in terms of attendance for all classes at Make School
-- [Course Credit Policy](https://make.sc/course-credit-policy) - Our policy for how you obtain credit for your courses
-- [Disability Services (Academic Accommodations)](https://make.sc/disability-services) - Services and accommodations we provide for students
-- [Online Learning Tutorial](https://make.sc/online-learning-tutorial) - How to succeed in online learning at Make School
-- [Student Handbook](https://make.sc/student-handbook) - Guidelines, policies, and resources for all Make School students
