@@ -13,7 +13,7 @@
   - [Make School Course Policies](#make-school-course-policies)
 ## Course Description
 
-This course focuses on advanced topics such as debugging, unit testing, refactoring and design patterns. Students apply these concepts to existing portfolio projects to improve code qualities such as readability, modularity and extensibility. Topics covered include: debugging techniques, unit-testing, refactoring techniques, design patterns and navigating massive codebases. By the end of the course, students have practical knowledge of writing python unit tests, refactoring legacy code and implementing some design patterns. 
+This course focuses on advanced topics such as debugging, unit testing, refactoring and design patterns. Students apply these concepts to existing portfolio projects to improve code qualities such as readability, modularity and extensibility. Topics covered include: debugging techniques, unit-testing, refactoring techniques, design patterns and navigating massive codebases. By the end of the course, students have practical knowledge of writing python unit tests, refactoring legacy code and implementing some design patterns.
 
 ## Prerequisites
 
@@ -41,21 +41,21 @@ Students by the end of the course will be able to ...
 **Course Dates:** Thu, Jan 21 – Thu, March 4, 2021 (7 weeks)<br>
 **Class Times:** Tue and Thu at 9:30am –12:15pm (13 class sessions)
 
-| Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------|
-|  1 |  Thu, Jan 21                         | [Debugging Steps](https://docs.google.com/presentation/d/1gHNAh4z_IFsW9lQbBWDtULEDxX7YCjgh9U4NJAivt00/edit?usp=sharing) |
-|  2 |  Tue, Jan 26                      | [Debugging Techniques](https://docs.google.com/presentation/d/1JFOS4z4hhejgyR7_jBDGOFBywJrqik1Bb18c_sugsDc/edit?usp=sharing) |
-|  3 |  Thu, Jan 28                         | [Using a Debugger](https://docs.google.com/presentation/d/1Lf1UfOtA02nUmL53Gf8CJwqEpaVXicpvSOa-mTuh8rg/edit?usp=sharing) |
-|  4 |  Tue, Feb 2                     | [Refactoring - PEP 8](https://docs.google.com/presentation/d/1d-uhUf_7v4PfbMFO_1sFcaRC5koy-hpoPCtq3Oku4ns/edit?usp=sharing) |
-|  5 |  Thu, Feb 4                        | [Refactoring - Composing Methods](https://docs.google.com/presentation/d/1vurOh1MhSBfVDTvbFwbgTEEPOgiC7M5pIUt-jCyHIj4/edit?usp=sharing) |
-|  6 |  Tue, Feb 9                     |  [Refactoring -  Composing Methods 2](https://docs.google.com/presentation/d/1a6NUs6GtLyf4FxIGTFwc_0nCiwDkwPMawY0BtIj1ND8/edit?usp=sharing)  |
-|  7 |  Tue, Feb 11                     |  [Refactoring - Simplifying Conditional Expressions](https://docs.google.com/presentation/d/1cJyY00m2iAOq1oq_hZCt3_3iNhbu2TqZvEcf3aF4jG4/edit?usp=sharing) |              |
-|  8 |  Tue, Feb 16                     | [Refactoring - Other Refactoring Techniques](https://docs.google.com/presentation/d/1iHNX9A0Zzi_cjBn_dL1A-7kzB3qO6KbaUXQ9B3IaWT0/edit?usp=sharing) |
-|  9 |  Thu, Feb 18                      | Refactoring  - Lab|
-| 10 |  Tue, Feb 23                     | [Unit Testing 1](https://github.com/Make-School-Courses/SPD-2.31-Testing-and-Architecture/tree/master/lab/pytest) |
-| 11 |  Thu, Feb 25                        | [Architecture: The Observer Design Pattern](https://docs.google.com/document/d/1jyrxxQyrVxBG9S_hXYI69ytUMdxQdApyM6MO2CwvYj4/edit?usp=sharing)|
-| 12 |  Tue, March 2                        | [Architecture - State Pattern](https://docs.google.com/document/d/1wiD0N9OFVyZz0SASkcnY-cYfIdPfv1SBH9q0ke65rxk/edit?usp=sharing)|
-| 13 |  Thu, March 4                           | [Final Exam](./final-exam) |
+| Class | Topics                                                                                                                       |
+| :---: | ---------------------------------------------------------------------------------------------------------------------------- |
+|   1   | [Debugging Steps](https://docs.google.com/presentation/d/1xBAFUqFhnP7nPlv1jpEDoTKj7pJfKz3hceGqBj-vIaQ/edit?usp=sharing)      |
+|   2   | [Debugging Techniques](https://docs.google.com/presentation/d/1cbpF_nOeNa6jkCm31C87SYG_s1HatExg5EoqqEiC_xg/edit?usp=sharing) |
+|   3   | [Using a Debugger](https://docs.google.com/presentation/d/1HR5eBRIePQCfLcP7CUfisZo1lytHIfkNL7KLTAYyCcs/edit?usp=sharing)     |
+|   4   | [Refactoring - PEP 8]()                                                                                                      |
+|   5   | [Refactoring - Composing Methods]()                                                                                          |
+|   6   | [Refactoring -  Composing Methods 2]()                                                                                       |
+|   7   | [Refactoring - Simplifying Conditional Expressions]()                                                                        |
+|   8   | [Refactoring - Other Refactoring Techniques]()                                                                               |
+|   9   | Refactoring  - Lab                                                                                                           |
+|  10   | [Unit Testing 1](https://github.com/Tech-at-DU/ACS-4931-Testing-and-Architecture/tree/master/lab/pytest)                     |
+|  11   | [Architecture: The Observer Design Pattern]()                                                                                |
+|  12   | [Architecture - State Pattern]()                                                                                             |
+|  13   | [Final Exam](./final-exam)                                                                                                   |
 
 ## Assignment Schedule
 
@@ -73,7 +73,7 @@ The assignments cover debugging, refactoring, unit testing and architecture topi
 1. Refactoring - Simplifying Conditional Expressions. The assignments include techniques such as decompose conditional, consolidate conditionals, consolidate duplicates, remove control flags and Replace Nested Conditional with Guard Clauses.
 1. Refactoring - Other techniques. The assignment includes extract superclass technique.
 1. Unit Test 1 and Unit Test 2. The assignments include writing unit tests for a tic-tac-toe program.
-1. Architecture 1 and 2. The assignments include refactoring a program to use the observer pattern and finite state machine pattern. 
+1. Architecture 1 and 2. The assignments include refactoring a program to use the observer pattern and finite state machine pattern.
 
 Please refer to [exercises](/exercises/README.md) and for details.
 For assignments due dates please refer to Gradescope. As a rule of thumb, the due date of an assignment is one to two weeks after its corresponding lesson is taught.
