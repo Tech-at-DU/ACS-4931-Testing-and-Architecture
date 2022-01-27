@@ -10,7 +10,7 @@ In this series of exercises, we learn how to refactor code for better readabilit
     - Maximum line length is `79 characters`.
     - Continuation lines should align wrapped elements either vertically using Python's implicit line joining inside parentheses, brackets and braces, or using a hanging indent. Refer to class slides for visual explanation.
 
-- [ ] Activity 2: Fix Whitespaces and Naming Convention [whitespace_naming_convention.py](whitespace_naming_conventions.py)
+- [ ] Activity 2: Fix Whitespaces and Naming Convention [whitespace_naming_conventions.py](whitespace_naming_conventions.py)
 
 
 - [ ] Activity 3: Add Docstrings [docstrings_blank_lines.py](docstrings_blank_lines.py) 
