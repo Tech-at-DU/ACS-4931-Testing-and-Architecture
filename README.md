@@ -1,6 +1,7 @@
-# SPD 2.31 Testing and Architecture
+# ACS 4931: Testing & Architecture
 
 # Table of Contents
+  - [Repository Setup](#repository-setup)
   - [Course Description](#course-description)
   - [Prerequisites](#prerequisites)
   - [Course Specifics](#course-specifics)
@@ -10,7 +11,11 @@
     - [Assignments](exercises/README.md) (found in /exercises)
   - [Evaluation](#evaluation)
   - [Information Resources](#information-resources)
-  - [Make School Course Policies](#make-school-course-policies)
+
+## Repository Setup
+
+:warning: **Important:** Please follow [these instructions](Setup.md) exactly to set up your clone of this course repository.
+
 ## Course Description
 
 This course focuses on advanced topics such as debugging, unit testing, refactoring and design patterns. Students apply these concepts to existing portfolio projects to improve code qualities such as readability, modularity and extensibility. Topics covered include: debugging techniques, unit-testing, refactoring techniques, design patterns and navigating massive codebases. By the end of the course, students have practical knowledge of writing python unit tests, refactoring legacy code and implementing some design patterns.
@@ -63,7 +68,7 @@ We will be using Gradescope, which allows us to provide fast and accurate feedba
 
 As soon as grades are posted, you will be notified immediately so that you can log in and see your feedback. You may also submit regrade requests if you feel we have made a mistake.
 
-Your Gradescope login is your Make School email, and your password can be changed at https://gradescope.com/reset_password. The same link can be used if you need to set your password for the first time.
+Your Gradescope login is your Dominican email, and your password can be changed at https://gradescope.com/reset_password. The same link can be used if you need to set your password for the first time.
 
 **The assignments cover debugging, refactoring, unit testing and architecture topics.**. Please refer to [exercises](/exercises/README.md) and for details.
 
