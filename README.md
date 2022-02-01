@@ -43,8 +43,8 @@ Students by the end of the course will be able to ...
 
 ## Schedule
 
-**Course Dates:** Thu, Jan 21 – Thu, March 4, 2021 (7 weeks)<br>
-**Class Times:** Tue and Thu at 9:30am –12:15pm (13 class sessions)
+**Course Dates:** Tuesday, January 19 – Thursday, March 10, 2022 (7 weeks)<br>
+**Class Times:** Tuesday and Thursday at 10:00am –12:15pm PST (13 class sessions)
 
 | Class | Topics                                                                                                                                                    |
 | :---: | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
