@@ -3,7 +3,7 @@
 In this series of exercises, we practice various refactoring techniques. You may want to run pylint on this script to find any pep8 compliance issues. Fix as much as issues you can.
 
 - [ ]  Exercise 1: 'Extract Function' Technique
-  - Study the file [composing-methods-more/calculate_grades.py](composing-methods-more/calculate_grades.py). Use `extract function` technique to improve modularity of the code
+  - Study the file [calculate_grades.py](calculate_grades.py). Use `extract function` technique to improve modularity of the code
   
 - [ ]  Exercise 2: 'Inline Function' Technique
   - Study the file [legal_drinking_age.py](legal_drinking_age.py). Use `inline function` technique to improve readability of the code. 
