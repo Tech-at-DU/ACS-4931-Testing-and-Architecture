@@ -100,7 +100,7 @@ To pass this course you must meet the following requirements:
 [Refactoring -  Composing Methods 2]: https://docs.google.com/presentation/d/1LRt-1pcpzWxHEVv4zFHRgVPGAJZ-WUQUPcr0Qje4FKI/edit?usp=sharing
 [Refactoring - Other Refactoring Techniques]: https://docs.google.com/presentation/d/1L_6ZPOEO6EcfHU-RqwY9czebkXbw6nW-7_gz5mxhsNY/edit?usp=sharing
 [Refactoring - Simplifying Conditional Expressions]: https://docs.google.com/presentation/d/1T5AUbdwKxXbVuCt9bAbdkmhK4GMd1oO0eHKhToi49Ps/edit?usp=sharing
-[Unit Testing with Pytest]: https://github.com/Tech-at-DU/ACS-4931-Testing-and-Architecture/tree/master/lab/pytest
+[Unit Testing with Pytest]: https://github.com/Tech-at-DU/ACS-4931-Testing-and-Architecture/tree/master/exercises/unit-testing
 [Design Patterns: Observers]: https://docs.google.com/document/d/11NclaPbHs4dRFzxIYtGprQrvHo6s2AM8jOflb9HOXVo/edit?usp=sharing
 [Design Patterns: Finite State Machines]: https://docs.google.com/document/d/1QdwqSWXvto7mLPsLfsT37E0cNjpOouvNuI3gyVIHQM8/edit?usp=sharing
 [Self Reflection]: Assignments/Reflective-Best-Self.md
