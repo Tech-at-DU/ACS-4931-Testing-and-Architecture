@@ -105,4 +105,4 @@ To pass this course you must meet the following requirements:
 [Design Patterns: Finite State Machines]: https://docs.google.com/document/d/1QdwqSWXvto7mLPsLfsT37E0cNjpOouvNuI3gyVIHQM8/edit?usp=sharing
 [Self Reflection]: Assignments/Reflective-Best-Self.md
 [Know Your Tools]: Lessons/KnowYourTools.md
-[Learning Objectives Self-Assessment]: https://www.gradescope.com/courses/351975/assignments/1829240
+[Learning Objectives Self-Assessment]: https://www.gradescope.com/courses/498721/assignments/2588292
