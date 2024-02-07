@@ -19,4 +19,4 @@ In this series of exercises, we practice various refactoring techniques. You may
 
 Please submit your work to Gradescope.
 
-Submit your work for Exercise 7 to Exercise 10 at https://www.gradescope.com/courses/206382/assignments/1007195
+Submit your work for Exercise 7 to Exercise 10 at https://www.gradescope.com
