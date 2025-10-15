@@ -13,14 +13,14 @@ Set up your local clone of this course repo on your computer.
 
 1. **Clone** (do not *fork*) this repo from GitHub onto your local computer.
 
-  - First open your terminal and navigate into the folder where you keep your course material and projects:
-  `cd ~/ACS/Courses` (or something similar for your folders)
-
-  - Then run this command to *clone* the course repo:
-  `git clone https://github.com/Tech-at-DU/ACS-4931-Testing-and-Architecture.git`
-
-  - Now navigate into the new folder Git just created:
-  `cd ACS-4931-Testing-and-Architecture`
+    - First open your terminal and navigate into the folder where you keep your course material and projects:
+    `cd ~/ACS/Courses` (or something similar for your folders)
+  
+    - Then run this command to *clone* the course repo:
+    `git clone https://github.com/Tech-at-DU/ACS-4931-Testing-and-Architecture.git`
+  
+    - Now navigate into the new folder Git just created:
+    `cd ACS-4931-Testing-and-Architecture`
 
 1. [**Create a new empty repo** on GitHub](https://github.com/new) also named `ACS-4931-Testing-and-Architecture` and **do not** initialize it with a README. (Creating a *new* repo instead of a *fork* allows you to earn credit towards your GitHub commit streak.)
 
