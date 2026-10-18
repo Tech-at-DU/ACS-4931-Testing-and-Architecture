@@ -43,8 +43,8 @@ By the end of the course, students will be able to ...
 
 ## Schedule
 
-**Course Dates:** Tuesday, January 19 – Thursday, March 3, 2022 (7 weeks)<br>
-**Class Times:** Tuesday and Thursday at 10:00am –12:15pm PST (13 class sessions)
+**Course Dates:** Monday, October 19 – Wednesday, December 9, 2026 (7 weeks)<br>
+**Class Times:** Monday and Wednesday at 4:00pm –6:00pm ET (1:00pm –3:00pm PT) (15 class sessions)
 
 | Class | Topics                                                    |
 | :---: | --------------------------------------------------------- |
