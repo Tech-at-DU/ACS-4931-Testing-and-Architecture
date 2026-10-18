@@ -44,6 +44,7 @@ By the end of the course, students will be able to ...
 ## Schedule
 
 **Course Dates:** Monday, October 19 – Wednesday, December 9, 2026 (7 weeks)<br>
+**No class:** Wednesday, November 25 (Campus Holiday)<br>
 **Class Times:** Monday and Wednesday at 4:00pm –6:00pm ET (1:00pm –3:00pm PT) (15 class sessions)
 
 | Class | Topics                                                    |
