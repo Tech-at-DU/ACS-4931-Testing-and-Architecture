@@ -58,7 +58,7 @@ Paste it into a scratch file and answer in a comment: if a test suite has 40 tes
 
 ## [**35m**] 📚 TT: Make the Cache Testable
 
-Talk track (TT) for today. You already know pytest, refactoring, and a few design patterns. Today we use all three on a response cache. It's super common in the real world: pretty much every AI app has one.
+TT for today. You already know pytest, refactoring, and a few design patterns. Today we use all three on a response cache. It's super common in the real world: pretty much every AI app has one.
 
 ### A Review Comment Worth Reading
 
@@ -147,7 +147,7 @@ model.assert_called_once_with("What is 2 + 2?")
 <details>
 <summary>Answer</summary>
 
-It proves the answer comes back. It does not prove anything was cached. Honestly, a cache that calls the model every time still passes this test. Add `assert model.call_count == 1`.
+It proves the answer comes back. It does not prove anything was cached. A cache that calls the model every time still passes this test. Add `assert model.call_count == 1`.
 
 </details>
 
