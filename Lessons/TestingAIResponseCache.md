@@ -1,6 +1,6 @@
 # Testing an AI Response Cache
 
-⭐️ **TARGET:** Write fast, deterministic pytest tests that prove a response cache hits, misses, expires, and evicts exactly when it should, without calling a real model or waiting on a real clock.
+⭐️ **GOAL:** Write fast, deterministic pytest tests that prove a response cache hits, misses, expires, and evicts exactly when it should, without calling a real model or waiting on a real clock.
 
 <!-- omit in toc -->
 ## ⏱ Agenda
@@ -34,7 +34,7 @@
 
 ## [**10m**] ☀️ Warm Up
 
-This is the model call we'll be caching. It stands in for a hosted large language model (LLM): slow, and every call is metered. It needs no application programming interface (API) key.
+This is the model call we'll be caching. It stands in for a hosted LLM: slow, and every call is metered. It needs no API key.
 
 ```python
 import time
@@ -52,17 +52,17 @@ def fake_llm(prompt):
 
 Paste it into a scratch file and answer in a comment: if a test suite has 40 tests and each one calls `fake_llm` three times, how long does the suite take? What would that number look like against a paid model?
 
-> **📈 PROTIP:** Everything in this session wraps a real software development kit (SDK) client the same way. The cache only sees "a callable that takes a prompt and returns text," so the tests stay identical when the real call goes in.
+> **📈 PROTIP:** Everything in this session wraps a real SDK client the same way. The cache only sees "a callable that takes a prompt and returns text," so the tests stay identical when the real call goes in.
 
 <!-- > -->
 
 ## [**35m**] 📚 TT: Make the Cache Testable
 
-Talk track (TT) for today. You already know pytest, refactoring, and a few design patterns. Today they meet one small, very common piece of artificial intelligence (AI) plumbing.
+Talk track (TT) for today. You already know pytest, refactoring, and a few design patterns. Today we're using all three on a response cache, which pretty much every AI app has.
 
 ### A Review Comment Worth Reading
 
-This is the kind of comment that shows up on a pull request (PR) that adds caching:
+All right, this is the kind of comment that shows up on a pull request (PR) that adds caching:
 
 ```text
 review: test_cache.py::test_expiry takes 61s on CI because it calls time.sleep(61).
@@ -70,11 +70,11 @@ test_cache.py::test_hit hits the live model, so CI needs an API key and costs mo
 Can we get these under a second and offline?
 ```
 
-CI is continuous integration, the server that runs the suite on every push. Both problems have the same root. The cache reaches out and grabs its dependencies (the model, the clock) instead of being handed them. Fix the design and the tests get easy.
+Both problems have the same root: the cache reaches out and grabs its dependencies (the model, the clock) instead of being handed them. Once you fix the design, the tests get a lot easier.
 
 ### Shape: Proxy or Decorator
 
-A proxy has the same call shape as the thing it wraps. Callers can't tell the difference, which means tests can swap what's behind it.
+A proxy has the same call shape as the thing it wraps. Callers can't tell the difference, which means tests can swap what's behind it. Think of it like testing a toaster with a battery pack: you don't plug into the wall every time, you just need something that heats the coils.
 
 ```python
 import time
@@ -98,9 +98,9 @@ class ResponseCache:
         self.misses = 0
 ```
 
-Two seams matter. `model_call` is passed in, so a test can hand it a mock. `clock` is passed in, so a test can hand it a fake. Production code never notices; it uses the defaults.
+Two seams matter. `model_call` is passed in, so a test can hand it a mock. `clock` is passed in, so a test can hand it a fake. Production code never notices; it just uses the defaults.
 
-The decorator form is a thin wrapper over the same class:
+The decorator form is a thin wrapper over the same class. Real quick:
 
 ```python
 def cache_responses(**options):
@@ -147,7 +147,7 @@ model.assert_called_once_with("What is 2 + 2?")
 <details>
 <summary>Answer</summary>
 
-It proves the answer comes back. It does not prove anything was cached. A cache that calls the model every time passes this test. Add `assert model.call_count == 1`.
+It proves the answer comes back. It does not prove anything was cached. Honestly, a cache that calls the model every time still passes this test. Add `assert model.call_count == 1`.
 
 </details>
 
@@ -173,7 +173,7 @@ def test_ttl_with_monkeypatch(monkeypatch):
 
 This works because `ResponseCache` looks up `time.monotonic` inside `__init__`. Patch the name where the code *looks it up*, at the moment it looks.
 
-> **‼️ CAUTION:** Write `def __init__(self, clock=time.monotonic)` and `monkeypatch` won't reach it. Python evaluates default arguments once, when the `def` runs, so the original function is already captured. Default to `None` and resolve inside the body, or inject a fake directly.
+> **‼️ BE AWARE:** Write `def __init__(self, clock=time.monotonic)` and `monkeypatch` won't reach it. Python evaluates default arguments once, when the `def` runs, so the original function is already captured. Default to `None` and resolve inside the body, or inject a fake directly.
 
 ### Time Without Sleeping
 
@@ -191,7 +191,7 @@ class FakeClock:
         self.now += seconds
 ```
 
-`ResponseCache` calls `self.clock()`, so any callable that returns a number works. The test decides what time it is.
+`ResponseCache` calls `self.clock()`, so any callable that returns a number works. The test decides what time it is. Super handy.
 
 > **💬 QUICK CHECK:** Predict. `ttl=60`, fake clock. Call the cache with the same prompt, `advance(59)`, call again, `advance(2)`, call again. What is `model.call_count`?
 
@@ -224,7 +224,7 @@ max_size=2
 | Model raises `TimeoutError` once | The next call retries; the failure was never stored |
 | "Suggest a team name" (should vary) | Passing `cacheable=False` calls the model every time and stores nothing |
 
-I'll admit the `cacheable` flag is the blunt version. A real system might decide per route or per prompt template. The test looks the same either way.
+Honestly, the `cacheable` flag is the simple version. A real system might decide per route or per prompt template, and the test looks the same either way.
 
 > **💬 YOUR TURN:** What is missing from this test list? `test_hit`, `test_miss`, `test_ttl_expiry`, `test_eviction`.
 
@@ -341,13 +341,13 @@ A test that errors are not cached. Without it, a cache that stores a timeout (or
 
     </details>
 
-> **‼️ PITFALL:** Don't wrap the model call in `try/except` and store a fallback. The error test exists to catch exactly that.
+> **‼️ WATCH OUT:** Don't wrap the model call in `try/except` and store a fallback. The error test exists to catch exactly that.
 
 <!-- > -->
 
 ## [**30m**] 💻 Activity 2: Fake Clocks, Eviction, and Breaking Each Other's Cache
 
-> **✅ COMPLETE WHEN:** `pytest -q` shows `9 passed`, and your mutation table below has at least three rows.
+> **✅ DONE WHEN:** `pytest -q` shows `9 passed`, and your mutation table below has at least three rows.
 
 1. Paste these tests as `test_ttl_lru.py`. Run them. Three should fail against your Activity 1 cache.
 
@@ -453,7 +453,7 @@ A test that errors are not cached. Without it, a cache that stores a timeout (or
 
 1. For any mutation that survived, write the test that would have caught it, and confirm it fails against the broken copy and passes against the real one.
 
-> **📈 DO THIS:** No teammate free? Work the same loop solo: apply each idea from step 3 to a copy of your own cache, run your own suite, and fill in the table. Post the table in the team thread when you can; anyone can pick it up later and try to beat it.
+> **📈 TIP:** No teammate free? Work the same loop solo: apply each idea from step 3 to a copy of your own cache, run your own suite, and fill in the table. Post the table in the team thread when you can; anyone can pick it up later and try to beat it.
 
 <!-- > -->
 
