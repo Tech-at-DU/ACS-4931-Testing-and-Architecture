@@ -58,7 +58,7 @@ Paste it into a scratch file and answer in a comment: if a test suite has 40 tes
 
 ## [**35m**] 📚 TT: Make the Cache Testable
 
-Talk track (TT) for today. You already know pytest, refactoring, and a few design patterns. Today we're using all three on a response cache, which pretty much every AI app has.
+Talk track (TT) for today. You already know pytest, refactoring, and a few design patterns. Today we use all three on a response cache. It's super common in the real world: pretty much every AI app has one.
 
 ### A Review Comment Worth Reading
 
@@ -74,7 +74,7 @@ Both problems have the same root: the cache reaches out and grabs its dependenci
 
 ### Shape: Proxy or Decorator
 
-A proxy has the same call shape as the thing it wraps. Callers can't tell the difference, which means tests can swap what's behind it. Think of it like testing a toaster with a battery pack: you don't plug into the wall every time, you just need something that heats the coils.
+A proxy has the same call shape as the thing it wraps. Callers can't tell the difference, which means tests can swap what's behind it. It's kind of like a front desk. Callers talk to the same desk no matter who's working behind it, so in a test we can put anyone back there.
 
 ```python
 import time
@@ -224,7 +224,7 @@ max_size=2
 | Model raises `TimeoutError` once | The next call retries; the failure was never stored |
 | "Suggest a team name" (should vary) | Passing `cacheable=False` calls the model every time and stores nothing |
 
-Honestly, the `cacheable` flag is the simple version. A real system might decide per route or per prompt template, and the test looks the same either way.
+Honestly, the `cacheable` flag is the simple version. In the real world you might decide per route or per prompt template. The test looks the same either way.
 
 > **💬 YOUR TURN:** What is missing from this test list? `test_hit`, `test_miss`, `test_ttl_expiry`, `test_eviction`.
 
