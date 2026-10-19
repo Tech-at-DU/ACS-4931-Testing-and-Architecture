@@ -44,25 +44,25 @@ By the end of the course, students will be able to ...
 ## Schedule
 
 **Course Dates:** Monday, October 19 – Wednesday, December 9, 2026 (7 weeks)<br>
-**No class:** Wednesday, November 25 (Campus Holiday)<br>
 **Class Times:** Monday and Wednesday at 4:00pm –6:00pm ET (1:00pm –3:00pm PT) (15 class sessions)
 
-| Class | Topics                                                    |
-| :---: | --------------------------------------------------------- |
-|   1   | [Debugging Steps]                                         |
-|   2   | [Debugging Techniques]                                    |
-|   3   | [Using a Debugger]                                        |
-|   4   | [Refactoring - PEP 8]                                     |
-|   5   | [Refactoring - Composing Methods]                         |
-|   6   | [Refactoring -  Composing Methods 2]                      |
-|   7   | [Refactoring - Simplifying Conditional Expressions]       |
-|   8   | [Refactoring - Other Refactoring Techniques]              |
-|   9   | Refactoring  - Lab                                        |
-|  10   | [Unit Testing with Pytest]                                |
-|  11   | [Design Patterns: Observers]                              |
-|  12   | [Design Patterns: Finite State Machines]                  |
-|  12   | 🆕  [Know Your Tools]                                      |
-|  14   | [Self Reflection] & [Learning Objectives Self-Assessment] |  |
+| Class |   Date   | Topic                                                     |
+| :---: |:--------:| --------------------------------------------------------- |
+|   1   |  Oct, 19 | [Debugging Steps]                                         |
+|   2   |  Oct, 21 | [Debugging Techniques]                                    |
+|   3   |  Oct, 26 | [Using a Debugger]                                        |
+|   4   |  Oct, 28 | [Refactoring - PEP 8]                                     |
+|   5   |  Nov, 2  | [Refactoring - Composing Methods]                         |
+|   6   |  Nov, 4  | [Refactoring -  Composing Methods 2]                      |
+|   7   |  Nov, 9  | [Refactoring - Simplifying Conditional Expressions]       |
+|   8   |  Nov, 11 | [Refactoring - Other Refactoring Techniques]              |
+|   9   |  Nov, 16 | Refactoring  - Lab                                        |
+|  10   |  Nov, 18 | [Unit Testing with Pytest]                                |
+|  11   |  Nov, 23 | [Design Patterns: Observers]                              |
+|   -   |  Nov, 25 | **Campus Holiday – No Class**                             |
+|  12   |  Nov, 30 | [Design Patterns: Finite State Machines]                  |
+|  12   |  Dec, 2  | 🆕  [Know Your Tools]                                      |
+|  14   |  Dec, 7  | [Self Reflection] & [Learning Objectives Self-Assessment] |  |
 
 
 ## Assignment Schedule
