@@ -27,7 +27,7 @@ This course focuses on advanced topics such as debugging, unit testing, refactor
 
 ## Course Specifics
 
-**Course Delivery**: hybrid | 7 weeks | 14 sessions
+**Course Delivery**: hybrid | 7 weeks | 15 sessions
 
 **Course Credits**: 3 units | 37.5 Seat Hours | 75 Total Hours
 
@@ -61,8 +61,9 @@ By the end of the course, students will be able to ...
 |  11   |  Nov, 23 | [Design Patterns: Observers]                              |
 |   -   |  Nov, 25 | **Campus Holiday – No Class**                             |
 |  12   |  Nov, 30 | [Design Patterns: Finite State Machines]                  |
-|  12   |  Dec, 2  | 🆕  [Know Your Tools]                                      |
-|  14   |  Dec, 7  | [Self Reflection] & [Learning Objectives Self-Assessment] |  |
+|  13   |  Dec, 2  | 🆕  [Know Your Tools]                                      |
+|  14   |  Dec, 7  | [Self Reflection] & [Learning Objectives Self-Assessment] |
+|  15   |  Dec, 9  | TBA                                                       |
 
 
 ## Assignment Schedule
