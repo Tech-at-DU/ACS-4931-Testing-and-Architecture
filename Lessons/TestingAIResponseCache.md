@@ -224,7 +224,7 @@ max_size=2
 | Model raises `TimeoutError` once | The next call retries; the failure was never stored |
 | "Suggest a team name" (should vary) | Passing `cacheable=False` calls the model every time and stores nothing |
 
-Honestly, the `cacheable` flag is the simple version. In the real world you might decide per route or per prompt template. The test looks the same either way.
+The `cacheable` flag is the simple version. In the real world you might decide per route or per prompt template. The test looks the same either way.
 
 > **💬 YOUR TURN:** What is missing from this test list? `test_hit`, `test_miss`, `test_ttl_expiry`, `test_eviction`.
 
