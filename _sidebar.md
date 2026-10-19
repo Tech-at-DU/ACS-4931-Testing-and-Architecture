@@ -1,2 +1,3 @@
 - [Syllabus](README.md)
 - [CLO Rubric](CLORubric.md)
+- [Testing an AI Response Cache](Lessons/TestingAIResponseCache.md)
