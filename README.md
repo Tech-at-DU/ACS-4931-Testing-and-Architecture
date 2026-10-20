@@ -63,7 +63,7 @@ By the end of the course, students will be able to ...
 |  12   |  Nov, 30 | [Design Patterns: Finite State Machines]                  |
 |  13   |  Dec, 2  | 🆕  [Know Your Tools]                                      |
 |  14   |  Dec, 7  | [Self Reflection] & [Learning Objectives Self-Assessment] |
-|  15   |  Dec, 9  | TBA                                                       |
+|  15   |  Dec, 9  | [Testing an AI Response Cache]                            |
 
 
 ## Assignment Schedule
@@ -108,3 +108,4 @@ To pass this course you must meet the following requirements:
 [Self Reflection]: Assignments/Reflective-Best-Self.md
 [Know Your Tools]: Lessons/KnowYourTools.md
 [Learning Objectives Self-Assessment]: https://www.gradescope.com/courses/498721/assignments/2588292
+[Testing an AI Response Cache]: Lessons/TestingAIResponseCache.md
