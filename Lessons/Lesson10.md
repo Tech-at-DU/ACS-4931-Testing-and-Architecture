@@ -126,6 +126,8 @@ Lead a JavaScript/Node-related debugging section with some problematic code. The
 
 From the [given tutorials](https://docs.google.com/presentation/d/1i7lBoMglqXVfqv0meHhj0aHfLOFPTXPqARAl_YGFEgg/edit#slide=id.g590b58aaab_0_698), complete the one that matches your concentration!
 
+Then grab [invoice_bug_hunt.py](https://github.com/Tech-at-DU/ACS-4931-Testing-and-Architecture/blob/master/exercises/debug-techniques/invoice_bug_hunt.py). The ticket says invoices are wrong for all three customers, so find the three bugs with the VS Code debugger, not `print()`.
+
 ## Resources
 
 - Deck adapted from [Debugging Effectively](https://www.slideshare.net/colinodell/debugging-effectively-confoo-montreal-2019) (2019) 
